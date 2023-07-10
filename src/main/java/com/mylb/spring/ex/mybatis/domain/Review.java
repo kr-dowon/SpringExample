@@ -13,6 +13,8 @@ public class Review {
 	private Date createdAt;
 	private Date updatedAt;
 	
+	
+	
 	public int getId() {
 		return id;
 	}
