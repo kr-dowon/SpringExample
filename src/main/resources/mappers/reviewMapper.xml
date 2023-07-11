@@ -39,7 +39,7 @@
 			, #{menu}
 			, #{userName}
 			, #{point}
-			, #{review]
+			, #{review}
 		)
 		
 	</insert>
