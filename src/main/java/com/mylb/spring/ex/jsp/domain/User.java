@@ -12,7 +12,6 @@ public class User {
 	private Date createdAt;
 	private Date updatedAt;
 	
-	
 	public int getId() {
 		return id;
 	}
